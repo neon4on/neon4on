@@ -1,4 +1,4 @@
-### Hi there 👋 ~~I'm frontend developer~~ I'm C#/C++/JS developer
+### Hi there 👋 ~~I'm C++/C#/Python developer~~ I'm frontend developer
 
 ### My Technology stack:
 
