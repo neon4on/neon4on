@@ -1,8 +1,5 @@
-<h1 align="center">Hi there 👋 ~~I'm C++/C#/Python developer~~ I'm Frontend Developer</h1> 
+<h1 align="center">Hi there 👋 I'm Frontend Developer</h1> 
 
-
-
-<h1 align="center">I'm <a href="https://github.com/neon4on">Valeriy Kamenskih</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~</h1>
 
 <p align="center">
