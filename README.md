@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong><a href="https://t.me/neon4on">Telegram</a></strong> |
-  <strong><a href="https://discord.gg/cloud.js">Discord</a></strong> |
+  <strong><a href="https://vk.com/rushexe">VK</a></strong>
 </p>
 
 <p align="center">❤ I'm currently working on Software and play ping pong</p>
