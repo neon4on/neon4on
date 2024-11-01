@@ -4,11 +4,11 @@
   
 - :blue_book: Typescript, Javascript
 
-- :atom_symbol: React, Redux, React-Router-Dom, React-Cookie
+- :atom_symbol: React, Redux, React-Router-Dom, React-Cookie, Zustand
   
 - :green_book: React Native, Expo
   
-- :desktop_computer: NodeJs, Express, ExcelJs
+- :desktop_computer: NodeJs, Express, NestJS
 
 </p>
   
