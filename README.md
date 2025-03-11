@@ -14,7 +14,7 @@ My accomplishments:
 
 ⚙️ Set up deployment via Docker and Kubernetes, automating CI/CD processes.
 
-🏆 Led a team at the largest Russian hackathon “Leaders of Digital Transformation 2024” (LTT) - the largest hackathon in the world with more than 9000 participants from 45 countries. Was among the finalists, demonstrating technical expertise and leadership skills https://i.moscow/upload/lending/lct2024/8a9b71.pdf
+🏆 Led a team at the largest Russian hackathon “Leaders of Digital Transformation 2024” (LCT/LDT) - the largest hackathon in the world with more than 9000 participants from 45 countries. Was among the finalists, demonstrating technical expertise and leadership skills https://i.moscow/upload/lending/lct2024/8a9b71.pdf
 
 📬 My contacts:
 
