@@ -1,24 +1,24 @@
 <h1> Hi there 👋 </h1> 
 
-I'm a Node.js Backend developer with 4 years of commercial development experience 🌟
+I'm a <b>Senior Backend Engineer (Node.js / NestJS)</b> with <b>4 years</b> of commercial experience 🌟
 
-🚀 I specialize in building scalable microservice architectures. I have deep knowledge of Node.js and extensive experience with distributed systems.
+🚀 I build scalable microservice platforms and real-time systems. Strong in distributed systems, messaging, performance tuning, and reliability.
 
-👨‍🏫 I have successfully onboarded and mentored new hires, sharing knowledge and helping them grow professionally.
+👨‍🏫 I mentor and onboard engineers, share best practices, and help teams ship faster with higher quality.
 
-My accomplishments:
+<b>Highlights:</b>
 
 💡 Developed a notification microservice for a dating application using WebSocket (Socket.IO) and NATS, providing stable operation for 10,000 concurrent users
 
 🛠 Participated in CRM system architecture design, including implementation of caching via Redis, which accelerated system response by 90% with cache hit
 
-⚙️ Set up deployment via Docker and Kubernetes, automating CI/CD processes.
+⚙️ Set up delivery pipeline with <b>Docker</b> and <b>Kubernetes</b>, automated CI/CD, and improved deployment reliability.
 
 🏆 Led a team at the largest Russian hackathon “Leaders of Digital Transformation 2024” (LCT/LDT) - the largest hackathon in the world with more than 9000 participants from 45 countries. Was among the finalists, demonstrating technical expertise and leadership skills https://i.moscow/upload/lending/lct2024/8a9b71.pdf
 
-📬 My contacts:
+📬 <b>Contacts</b>:
 
-📱 Telegram: @neon4on
+📱 Telegram: @neon4on  
 📧 Email: valerii.kamenskikh.it@gmail.com
 
 ### Skills
